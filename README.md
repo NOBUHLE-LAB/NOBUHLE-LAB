@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning data engineering
 - 💞️ I’m looking to collaborate on python projects
-- 📫 How to reach me @nobuhlemgqatsa@gmail.cpm
+- 📫 How to reach me @nobuhlemgqatsa@gmail.com
 
 <!---
 NOBUHLE-LAB/NOBUHLE-LAB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
